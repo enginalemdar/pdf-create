@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 2cm;
+  color: #111;
+}
+
+.container {
+  width: 100%;
+  max-width: 18cm;
+  margin: auto;
+}
+
+.section {
+  margin-bottom: 20px;
+}
+
+.footer {
+  margin-top: 2cm;
+  font-size: 12px;
+  text-align: center;
+  color: #777;
+}
